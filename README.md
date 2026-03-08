@@ -3,6 +3,7 @@
 
                                               Project Overview
 
+<img width="1536" height="1024" alt="THUMBNAIL" src="https://github.com/user-attachments/assets/ceafd462-0666-4523-8cf0-569591a4bd7e" />
 
 
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
