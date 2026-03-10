@@ -206,7 +206,10 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 
 
- Author - wani umer
+ Links
+ Wani Umer (Data Analyst)
 
-- LinkedIn: www.linkedin.com/in/waniumer-analytics 
+PORTFOLIO:- https://codebasics.io/portfolio/WANI-UMER
+
+ LinkedIn: www.linkedin.com/in/waniumer-analytics 
 
